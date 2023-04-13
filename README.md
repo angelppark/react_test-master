@@ -2,6 +2,4 @@
 
 https://react-test-dusky-two.vercel.app/
 
-
-
-https://github.com/DVDVDIP/react_test.git
+https://github.com/angelppark/react_test-master/edit/master/README.md
